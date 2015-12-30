@@ -14,5 +14,8 @@
     "babel-preset-stage-0": "*",
     "babel-preset-es2015-riot": "*",
     "riot": "^2.3.12"
+  },
+  "devDependencies": {
+    "babel-plugin-external-helpers-2": "^6.3.13"
   }
 }
